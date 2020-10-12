@@ -6,7 +6,7 @@ county/municipality resolution for Argentina, Brazil, Chile, Colombia, Czech Rep
 Netherlands, Peru, United Kingdom, and USA. All regions are assigned a unique location key, which
 resolves discrepancies between ISO / NUTS / FIPS codes, etc. The different aggregation levels are:
 * 0: Country
-* 1: Province, state, or local equivalent
+* 1: Province, state, or local Equivalent
 * 2: Municipality, county, or local equivalent
 * 3: Locality which may not follow strict hierarchical order, such as "city" or "nursing homes in X
   location"
